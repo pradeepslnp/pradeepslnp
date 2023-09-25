@@ -16,9 +16,13 @@ Here are some ideas to get you started:
  
  ### My Github Stats 📊
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepslnp&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeepslnp&theme=github_dark&utcOffset=8)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pradeepslnp&theme=ads-juicy-fresh)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pradeepslnp&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/pradeepslnp/pradeepslnp/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center"><a href="https://github.com/pradeepslnp"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
