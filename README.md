@@ -16,9 +16,9 @@ Here are some ideas to get you started:
  
  ### My Github Stats 📊
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepslnp&theme=github_dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeepslnp&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeepslnp&theme=github_dark&utcOffset=8)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pradeepslnp&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pradeepslnp&theme=ads-juicy-fresh)](https://git.io/streak-stats) -->
