@@ -5,10 +5,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning flutter
-
 - 🤔 I’m looking for help with new concepts on flutter
-- 
-
 - 📫 How to reach me:[Twitter-@Pradeepslnp7] (https://twitter.com/Pradeepslnp7?s=09)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:  I search for meaning and purpose, even it's small things.
