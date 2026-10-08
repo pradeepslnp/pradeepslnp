@@ -5,7 +5,7 @@
 I design and ship production Flutter applications for Android, iOS and the web, from the first screen to the store release. My focus is clean architecture, predictable state management and apps that keep working when the network does not.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-s-665912180)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://pradeepflutter.netlify.app/#/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://pradeepflutter.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pradeepslnp@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Pradeepslnp7)
 
