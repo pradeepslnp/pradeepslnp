@@ -1,47 +1,41 @@
-### Hi
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Pradeep;" />
-</h1>
-<h3 align="center">A passionate software developer from India IND</h3>
+# Pradeep S
 
-Here are some ideas to get you started:
+**Flutter Developer · 5+ years building cross-platform mobile and web apps · India**
 
+I design and ship production Flutter applications for Android, iOS and the web, from the first screen to the store release. My focus is clean architecture, predictable state management and apps that keep working when the network does not.
 
-- 🌱 I’m currently learning flutter
-- 🤔 I’m looking for help with new concepts on flutter
-- 📫 How to reach me:[Twitter-@Pradeepslnp7] (https://twitter.com/Pradeepslnp7?s=09)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact:  I search for meaning and purpose, even it's small things.
- <img src="https://github-readme-stats.vercel.app/api?username=pradeepslnp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<br>
-<div align="center"> 
-  <a href="mailto:pradeepslnp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pradeep-s-665912180" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://pradeepflutter.netlify.app/#/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
- <br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,firebase,supabase,aws,github,figma,git,cpp" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,c,nextjs,mysql" /><br>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeep-s-665912180)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=googlechrome&logoColor=white)](https://pradeepflutter.netlify.app/#/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pradeepslnp@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Pradeepslnp7)
 
- ### My Github Stats 📊
+## What I do
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pradeepslnp&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradeepslnp&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pradeepslnp&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pradeepslnp&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradeepslnp&theme=github_dark&utcOffset=8)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pradeepslnp&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+- **Mobile and web apps with Flutter**: multi-app products that share a design system, with offline-first data and push notifications.
+- **State management and architecture**: BLoC, Provider and GetX, organised around Clean Architecture so features stay testable.
+- **Backend integration**: REST APIs with Dio, Firebase (Auth, Firestore, Storage, Cloud Messaging), Supabase and AWS Amplify.
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/pradeepslnp/pradeepslnp/blob/output/github-contribution-grid-snake-dark.svg)
-<p align="center"><a href="https://github.com/pradeepslnp"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+## Tech stack
+
+| Area | Tools |
+|---|---|
+| Mobile and web | Flutter, Dart |
+| State management | BLoC, Provider, GetX |
+| Backend and cloud | Firebase, Supabase, AWS Amplify, Node.js, Express |
+| Data | Firestore, PostgreSQL, MongoDB, MySQL |
+| Also work with | TypeScript, Next.js, C++, Figma, Git |
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Guardian Platform](https://github.com/pradeepslnp/school) | Multi-tenant school transport and child-safety platform: parent app, offline-first driver and attendant app, and a web admin console. | Flutter, Flutter Web, Spring Boot, PostgreSQL |
+| [vinlabs](https://github.com/pradeepslnp/vinlabs) | Mobile app with Google sign-in, Firestore data, file storage and REST integration. | Flutter, Firebase, Dio |
+| [quiz_innopay](https://github.com/pradeepslnp/quiz_innopay) | Animated quiz app that loads questions from an API. | Flutter, Provider |
+| [login_using_BLOC](https://github.com/pradeepslnp/login_using_BLOC) | Login flow built with the BLoC pattern. | Flutter, BLoC |
+| [todo_app_using_getx](https://github.com/pradeepslnp/todo_app_using_getx) | To-do app with reactive state using GetX. | Flutter, GetX |
+| [aws_amplify_flutter](https://github.com/pradeepslnp/aws_amplify_flutter) | Flutter app wired to an AWS Amplify backend. | Flutter, AWS Amplify |
+
+## Get in touch
+
+I am open to Flutter roles and freelance projects. The quickest way to reach me is [LinkedIn](https://linkedin.com/in/pradeep-s-665912180) or [email](mailto:pradeepslnp@gmail.com).
