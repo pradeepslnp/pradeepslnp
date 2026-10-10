@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="pradeepslnp's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Pradeep S
 
 **Flutter Developer · 5+ years building cross-platform mobile and web apps · India**
