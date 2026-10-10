@@ -36,7 +36,7 @@ I design and ship production Flutter applications for Android, iOS and the web, 
 | Project | What it is | Stack |
 |---|---|---|
 | [Guardian Platform](https://github.com/pradeepslnp/school) | Multi-tenant school transport and child-safety platform: parent app, offline-first driver and attendant app, and a web admin console. | Flutter, Flutter Web, Spring Boot, PostgreSQL |
-| [vinlabs](https://github.com/pradeepslnp/vinlabs) | Mobile app with Google sign-in, Firestore data, file storage and REST integration. | Flutter, Firebase, Dio |
+| [Karnataka One Chikkaballapur](https://github.com/pradeepslnp/karnataka-one-chikkaballapur) | Website for a citizen-services centre: service list with documents to bring, map directions and a WhatsApp enquiry form. | HTML, CSS, JavaScript |
 | [quiz_innopay](https://github.com/pradeepslnp/quiz_innopay) | Animated quiz app that loads questions from an API. | Flutter, Provider |
 | [login_using_BLOC](https://github.com/pradeepslnp/login_using_BLOC) | Login flow built with the BLoC pattern. | Flutter, BLoC |
 | [todo_app_using_getx](https://github.com/pradeepslnp/todo_app_using_getx) | To-do app with reactive state using GetX. | Flutter, GetX |
